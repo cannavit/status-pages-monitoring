@@ -12,7 +12,12 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: Anoki/Production Cluster
-    ur: https://cloud.anoki.it:8443
+    url: https://cloud.anoki.it:8443
+  - name: Anoki prenotazioni-api [production]
+    url: http://prenotazioni-api.cloud.anoki.it/reservation-be/swagger-ui.html
+  - name: Anoki prenotazioni-web [production]   
+    url: http://prenotazioni-web.cloud.anoki.it/
+    
 
 assignees:
   - cannavit
