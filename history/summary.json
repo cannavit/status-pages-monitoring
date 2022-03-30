@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "4.12%",
-    "uptimeDay": "4.12%",
-    "uptimeWeek": "4.12%",
-    "uptimeMonth": "4.12%",
-    "uptimeYear": "4.12%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-30": 0
+      "2022-03-30": 95
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.anoki.it",
     "slug": "anoki-production-cluster",
     "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-30": 23
+      "2022-03-30": 118
     }
   },
   {
@@ -98,18 +98,20 @@
     "url": "http://prenotazioni-api.cloud.anoki.it/reservation-be/swagger-ui.html",
     "icon": "https://favicons.githubusercontent.com/prenotazioni-api.cloud.anoki.it",
     "slug": "anoki-prenotazioni-api-production",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 741,
-    "timeDay": 741,
-    "timeWeek": 741,
-    "timeMonth": 741,
-    "timeYear": 741,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 668,
+    "timeDay": 668,
+    "timeWeek": 668,
+    "timeMonth": 668,
+    "timeYear": 668,
+    "dailyMinutesDown": {
+      "2022-03-30": 0
+    }
   },
   {
     "name": "Anoki prenotazioni-web [production]",
