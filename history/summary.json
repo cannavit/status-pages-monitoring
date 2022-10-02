@@ -2,7 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "99.99%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 96,
-    "timeDay": 67,
-    "timeWeek": 103,
-    "timeMonth": 118,
+    "timeDay": 89,
+    "timeWeek": 105,
+    "timeMonth": 115,
     "timeYear": 96,
     "dailyMinutesDown": {
       "2022-04-13": 24
@@ -22,7 +22,7 @@
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
-    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
+    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
@@ -31,16 +31,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 151,
-    "timeWeek": 197,
-    "timeMonth": 201,
+    "timeDay": 296,
+    "timeWeek": 217,
+    "timeMonth": 206,
     "timeYear": 205,
     "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
     "url": "https://news.ycombinator.com",
-    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
+    "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.80%",
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 289,
-    "timeDay": 425,
-    "timeWeek": 327,
-    "timeMonth": 288,
-    "timeYear": 289,
+    "time": 288,
+    "timeDay": 141,
+    "timeWeek": 322,
+    "timeMonth": 283,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2022-07-08": 538
     }
@@ -60,7 +60,7 @@
   {
     "name": "Test Broken Site",
     "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
     "uptime": "0.00%",
@@ -74,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-01": 125,
+      "2022-10-02": 117,
+      "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
@@ -265,7 +266,7 @@
   {
     "name": "Anoki/Production Cluster",
     "url": "https://cloud.anoki.it:8443",
-    "icon": "https://favicons.githubusercontent.com/cloud.anoki.it",
+    "icon": "https://icons.duckduckgo.com/ip3/cloud.anoki.it.ico",
     "slug": "anoki-production-cluster",
     "status": "down",
     "uptime": "0.00%",
@@ -279,7 +280,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-01": 125,
+      "2022-10-02": 117,
+      "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
@@ -470,7 +472,7 @@
   {
     "name": "Anoki prenotazioni-api [production]",
     "url": "http://prenotazioni-api.cloud.anoki.it/reservation-be/swagger-ui.html",
-    "icon": "https://favicons.githubusercontent.com/prenotazioni-api.cloud.anoki.it",
+    "icon": "https://icons.duckduckgo.com/ip3/prenotazioni-api.cloud.anoki.it.ico",
     "slug": "anoki-prenotazioni-api-production",
     "status": "up",
     "uptime": "99.99%",
@@ -478,11 +480,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1110,
-    "timeDay": 1343,
-    "timeWeek": 1525,
-    "timeMonth": 1507,
-    "timeYear": 1110,
+    "time": 1111,
+    "timeDay": 1434,
+    "timeWeek": 1481,
+    "timeMonth": 1494,
+    "timeYear": 1111,
     "dailyMinutesDown": {
       "2022-03-30": 25
     }
@@ -490,7 +492,7 @@
   {
     "name": "Anoki prenotazioni-web [production]",
     "url": "http://prenotazioni-web.cloud.anoki.it/",
-    "icon": "https://favicons.githubusercontent.com/prenotazioni-web.cloud.anoki.it",
+    "icon": "https://icons.duckduckgo.com/ip3/prenotazioni-web.cloud.anoki.it.ico",
     "slug": "anoki-prenotazioni-web-production",
     "status": "down",
     "uptime": "0.58%",
@@ -498,13 +500,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.58%",
-    "time": 641,
-    "timeDay": 685,
-    "timeWeek": 816,
-    "timeMonth": 819,
-    "timeYear": 641,
+    "time": 643,
+    "timeDay": 1080,
+    "timeWeek": 806,
+    "timeMonth": 824,
+    "timeYear": 643,
     "dailyMinutesDown": {
-      "2022-10-01": 125,
+      "2022-10-02": 117,
+      "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
