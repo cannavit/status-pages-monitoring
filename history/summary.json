@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 74,
+    "timeDay": 76,
     "timeWeek": 73,
-    "timeMonth": 116,
+    "timeMonth": 114,
     "timeYear": 103,
     "dailyMinutesDown": {
       "2022-04-13": 24
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 163,
-    "timeWeek": 238,
-    "timeMonth": 207,
+    "timeDay": 96,
+    "timeWeek": 211,
+    "timeMonth": 203,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2023-01-25": 20
@@ -46,17 +46,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.88%",
     "time": 308,
-    "timeDay": 304,
-    "timeWeek": 354,
-    "timeMonth": 322,
+    "timeDay": 284,
+    "timeWeek": 356,
+    "timeMonth": 320,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-03-30": 6,
       "2023-03-28": 31,
       "2023-03-27": 39,
       "2022-07-08": 538
@@ -71,7 +70,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -79,7 +78,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-30": 711,
+      "2023-03-31": 14,
+      "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1440,
@@ -442,8 +442,7 @@
       "2022-04-04": 1440,
       "2022-04-03": 1440,
       "2022-04-02": 1440,
-      "2022-04-01": 1440,
-      "2022-03-31": 1440
+      "2022-04-01": 1440
     }
   },
   {
@@ -455,7 +454,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -463,7 +462,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-30": 711,
+      "2023-03-31": 14,
+      "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1440,
@@ -826,8 +826,7 @@
       "2022-04-04": 1440,
       "2022-04-03": 1440,
       "2022-04-02": 1440,
-      "2022-04-01": 1440,
-      "2022-03-31": 1440
+      "2022-04-01": 1440
     }
   },
   {
@@ -840,12 +839,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1294,
-    "timeDay": 1882,
-    "timeWeek": 1408,
-    "timeMonth": 1375,
-    "timeYear": 1300,
+    "uptimeYear": "100.00%",
+    "time": 1293,
+    "timeDay": 870,
+    "timeWeek": 1323,
+    "timeMonth": 1358,
+    "timeYear": 1305,
     "dailyMinutesDown": {
       "2023-01-25": 15
     }
@@ -856,18 +855,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/prenotazioni-web.cloud.anoki.it.ico",
     "slug": "anoki-prenotazioni-web-production",
     "status": "down",
-    "uptime": "0.30%",
+    "uptime": "0.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "0.29%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.14%",
     "time": 700,
-    "timeDay": 1510,
-    "timeWeek": 758,
-    "timeMonth": 730,
+    "timeDay": 654,
+    "timeWeek": 764,
+    "timeMonth": 727,
     "timeYear": 701,
     "dailyMinutesDown": {
-      "2023-03-30": 711,
+      "2023-03-31": 14,
+      "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1440,
@@ -1230,8 +1230,7 @@
       "2022-04-04": 1440,
       "2022-04-03": 1440,
       "2022-04-02": 1440,
-      "2022-04-01": 1440,
-      "2022-03-31": 671
+      "2022-04-01": 1440
     }
   }
 ]
