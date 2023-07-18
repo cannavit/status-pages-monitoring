@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 172,
+    "timeDay": 86,
     "timeWeek": 140,
     "timeMonth": 111,
     "timeYear": 109,
@@ -77,7 +77,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-18": 22,
+      "2023-07-18": 1145,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
@@ -461,7 +461,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-18": 22,
+      "2023-07-18": 1145,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
@@ -833,10 +833,10 @@
     "url": "http://prenotazioni-api.cloud.anoki.it/reservation-be/swagger-ui.html",
     "icon": "https://icons.duckduckgo.com/ip3/prenotazioni-api.cloud.anoki.it.ico",
     "slug": "anoki-prenotazioni-api-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1321,
@@ -845,6 +845,7 @@
     "timeMonth": 1389,
     "timeYear": 1431,
     "dailyMinutesDown": {
+      "2023-07-18": 1,
       "2023-01-25": 15
     }
   },
@@ -865,7 +866,7 @@
     "timeMonth": 725,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2023-07-18": 23,
+      "2023-07-18": 1145,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
