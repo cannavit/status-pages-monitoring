@@ -24,9 +24,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 181,
     "timeYear": 214,
     "dailyMinutesDown": {
+      "2023-09-27": 0,
       "2023-01-25": 20
     }
   },
@@ -80,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-27": 613,
+      "2023-09-27": 918,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
@@ -464,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-27": 613,
+      "2023-09-27": 918,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
@@ -838,9 +839,9 @@
     "slug": "anoki-prenotazioni-api-production",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1375,
     "timeDay": 1397,
@@ -848,7 +849,6 @@
     "timeMonth": 1451,
     "timeYear": 1448,
     "dailyMinutesDown": {
-      "2023-09-27": 9,
       "2023-01-25": 15
     }
   },
@@ -869,7 +869,7 @@
     "timeMonth": 780,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2023-09-27": 614,
+      "2023-09-27": 918,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
