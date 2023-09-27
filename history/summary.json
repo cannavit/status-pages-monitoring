@@ -80,7 +80,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-27": 13,
+      "2023-09-27": 605,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
@@ -464,7 +464,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-27": 13,
+      "2023-09-27": 605,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
@@ -836,18 +836,19 @@
     "url": "http://prenotazioni-api.cloud.anoki.it/reservation-be/swagger-ui.html",
     "icon": "https://icons.duckduckgo.com/ip3/prenotazioni-api.cloud.anoki.it.ico",
     "slug": "anoki-prenotazioni-api-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1373,
+    "time": 1374,
     "timeDay": 1454,
     "timeWeek": 1601,
     "timeMonth": 1455,
     "timeYear": 1448,
     "dailyMinutesDown": {
+      "2023-09-27": 0,
       "2023-01-25": 15
     }
   },
@@ -868,7 +869,7 @@
     "timeMonth": 780,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2023-09-27": 13,
+      "2023-09-27": 605,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
