@@ -1,7 +1,7 @@
 url: http://prenotazioni-api.cloud.anoki.it/reservation-be/swagger-ui.html
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-27T10:04:34.234Z
+status: up
+code: 200
+responseTime: 1339
+lastUpdated: 2023-09-27T10:13:12.140Z
 startTime: 2022-03-30T10:57:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
