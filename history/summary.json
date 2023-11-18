@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 116,
-    "timeDay": 67,
+    "time": 115,
+    "timeDay": 71,
     "timeWeek": 73,
-    "timeMonth": 111,
+    "timeMonth": 110,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2023-09-24": 30
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 202,
-    "timeWeek": 319,
-    "timeMonth": 238,
-    "timeYear": 218,
+    "timeDay": 379,
+    "timeWeek": 330,
+    "timeMonth": 248,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2023-01-25": 20
     }
@@ -46,17 +46,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 316,
-    "timeDay": 351,
-    "timeWeek": 402,
-    "timeMonth": 329,
-    "timeYear": 319,
+    "timeDay": 361,
+    "timeWeek": 413,
+    "timeMonth": 323,
+    "timeYear": 320,
     "dailyMinutesDown": {
-      "2023-11-17": 6,
       "2023-09-13": 19,
       "2023-06-01": 60,
       "2023-04-11": 24,
@@ -81,7 +80,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-17": 899,
+      "2023-11-18": 13,
+      "2023-11-17": 1440,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
@@ -444,8 +444,7 @@
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
-      "2022-11-19": 1440,
-      "2022-11-18": 1440
+      "2022-11-19": 1440
     }
   },
   {
@@ -465,7 +464,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-17": 899,
+      "2023-11-18": 13,
+      "2023-11-17": 1440,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
@@ -828,8 +828,7 @@
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
-      "2022-11-19": 1440,
-      "2022-11-18": 1440
+      "2022-11-19": 1440
     }
   },
   {
@@ -843,11 +842,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1429,
-    "timeDay": 1331,
-    "timeWeek": 1365,
-    "timeMonth": 1536,
-    "timeYear": 1436,
+    "time": 1430,
+    "timeDay": 1607,
+    "timeWeek": 1362,
+    "timeMonth": 1522,
+    "timeYear": 1437,
     "dailyMinutesDown": {
       "2023-01-25": 15
     }
@@ -863,13 +862,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 738,
-    "timeDay": 636,
-    "timeWeek": 703,
-    "timeMonth": 823,
-    "timeYear": 747,
+    "time": 739,
+    "timeDay": 554,
+    "timeWeek": 664,
+    "timeMonth": 817,
+    "timeYear": 746,
     "dailyMinutesDown": {
-      "2023-11-17": 899,
+      "2023-11-18": 13,
+      "2023-11-17": 1440,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
@@ -1232,8 +1232,7 @@
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
-      "2022-11-19": 1440,
-      "2022-11-18": 1440
+      "2022-11-19": 1440
     }
   }
 ]
