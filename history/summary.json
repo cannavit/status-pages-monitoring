@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 77,
-    "timeWeek": 86,
+    "timeDay": 75,
+    "timeWeek": 85,
     "timeMonth": 77,
     "timeYear": 114,
     "dailyMinutesDown": {
@@ -31,13 +31,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 346,
-    "timeWeek": 228,
-    "timeMonth": 225,
+    "timeDay": 199,
+    "timeWeek": 225,
+    "timeMonth": 212,
     "timeYear": 217,
-    "dailyMinutesDown": {
-      "2023-01-25": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -51,9 +49,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.90%",
     "time": 406,
-    "timeDay": 269,
-    "timeWeek": 333,
-    "timeMonth": 734,
+    "timeDay": 341,
+    "timeWeek": 361,
+    "timeMonth": 732,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2024-01-10": 122,
@@ -82,7 +80,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-24": 14,
+      "2024-01-25": 14,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -445,8 +444,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -466,7 +464,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-24": 14,
+      "2024-01-25": 14,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -829,8 +828,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -845,13 +843,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1449,
-    "timeDay": 1077,
-    "timeWeek": 1396,
-    "timeMonth": 1383,
-    "timeYear": 1418,
-    "dailyMinutesDown": {
-      "2023-01-25": 15
-    }
+    "timeDay": 1739,
+    "timeWeek": 1449,
+    "timeMonth": 1398,
+    "timeYear": 1419,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Anoki prenotazioni-web [production]",
@@ -865,12 +861,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 741,
-    "timeDay": 755,
-    "timeWeek": 622,
-    "timeMonth": 638,
+    "timeDay": 644,
+    "timeWeek": 645,
+    "timeMonth": 640,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2024-01-24": 14,
+      "2024-01-25": 14,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -1233,8 +1230,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   }
 ]
