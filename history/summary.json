@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 80,
-    "timeWeek": 143,
-    "timeMonth": 112,
+    "timeDay": 74,
+    "timeWeek": 141,
+    "timeMonth": 106,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2024-05-01": 35,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 363,
-    "timeWeek": 314,
-    "timeMonth": 302,
-    "timeYear": 229,
+    "timeDay": 169,
+    "timeWeek": 303,
+    "timeMonth": 280,
+    "timeYear": 228,
     "dailyMinutesDown": {}
   },
   {
@@ -44,15 +44,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 402,
-    "timeDay": 369,
-    "timeWeek": 262,
-    "timeMonth": 309,
+    "timeDay": 447,
+    "timeWeek": 263,
+    "timeMonth": 312,
     "timeYear": 434,
     "dailyMinutesDown": {
       "2024-01-10": 122,
@@ -77,7 +77,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-28": 17,
+      "2024-07-29": 16,
+      "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
@@ -440,8 +441,7 @@
       "2023-08-03": 1440,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
-      "2023-07-31": 1440,
-      "2023-07-30": 1440
+      "2023-07-31": 1440
     }
   },
   {
@@ -461,7 +461,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-28": 17,
+      "2024-07-29": 16,
+      "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
@@ -824,8 +825,7 @@
       "2023-08-03": 1440,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
-      "2023-07-31": 1440,
-      "2023-07-30": 1440
+      "2023-07-31": 1440
     }
   },
   {
@@ -839,10 +839,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1425,
-    "timeDay": 1760,
-    "timeWeek": 1636,
-    "timeMonth": 1609,
+    "time": 1426,
+    "timeDay": 1132,
+    "timeWeek": 1640,
+    "timeMonth": 1603,
     "timeYear": 1436,
     "dailyMinutesDown": {}
   },
@@ -858,12 +858,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 740,
-    "timeDay": 721,
-    "timeWeek": 783,
-    "timeMonth": 755,
+    "timeDay": 670,
+    "timeWeek": 792,
+    "timeMonth": 756,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2024-07-28": 17,
+      "2024-07-29": 16,
+      "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
@@ -1226,8 +1227,7 @@
       "2023-08-03": 1440,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
-      "2023-07-31": 1440,
-      "2023-07-30": 1440
+      "2023-07-31": 1440
     }
   }
 ]
