@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 80,
-    "timeWeek": 84,
+    "timeDay": 95,
+    "timeWeek": 85,
     "timeMonth": 104,
     "timeYear": 105,
     "dailyMinutesDown": {
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 680,
-    "timeWeek": 404,
-    "timeMonth": 319,
+    "timeDay": 168,
+    "timeWeek": 283,
+    "timeMonth": 322,
     "timeYear": 233,
     "dailyMinutesDown": {}
   },
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 403,
-    "timeDay": 447,
-    "timeWeek": 347,
-    "timeMonth": 320,
+    "timeDay": 90,
+    "timeWeek": 311,
+    "timeMonth": 314,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2024-01-10": 122,
@@ -77,7 +77,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-09": 206,
+      "2024-08-10": 15,
+      "2024-08-09": 1440,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
@@ -440,8 +441,7 @@
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
-      "2023-08-12": 1440,
-      "2023-08-11": 1440
+      "2023-08-12": 1440
     }
   },
   {
@@ -461,7 +461,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-09": 206,
+      "2024-08-10": 15,
+      "2024-08-09": 1440,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
@@ -824,8 +825,7 @@
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
-      "2023-08-12": 1440,
-      "2023-08-11": 1440
+      "2023-08-12": 1440
     }
   },
   {
@@ -835,18 +835,16 @@
     "slug": "anoki-prenotazioni-api-production",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1426,
-    "timeDay": 2165,
-    "timeWeek": 1585,
-    "timeMonth": 1623,
+    "timeDay": 2156,
+    "timeWeek": 1633,
+    "timeMonth": 1626,
     "timeYear": 1438,
-    "dailyMinutesDown": {
-      "2024-08-09": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Anoki prenotazioni-web [production]",
@@ -860,12 +858,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 743,
-    "timeDay": 860,
-    "timeWeek": 873,
-    "timeMonth": 767,
+    "timeDay": 785,
+    "timeWeek": 876,
+    "timeMonth": 773,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2024-08-09": 206,
+      "2024-08-10": 15,
+      "2024-08-09": 1440,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
@@ -1228,8 +1227,7 @@
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
-      "2023-08-12": 1440,
-      "2023-08-11": 1440
+      "2023-08-12": 1440
     }
   }
 ]
