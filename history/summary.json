@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 18,
+      "2025-02-20": 704,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -456,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 18,
+      "2025-02-20": 704,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -828,18 +828,20 @@
     "url": "http://prenotazioni-api.cloud.anoki.it/reservation-be/swagger-ui.html",
     "icon": "https://icons.duckduckgo.com/ip3/prenotazioni-api.cloud.anoki.it.ico",
     "slug": "anoki-prenotazioni-api-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1453,
-    "timeDay": 1180,
-    "timeWeek": 1375,
-    "timeMonth": 1488,
+    "time": 1454,
+    "timeDay": 1302,
+    "timeWeek": 1381,
+    "timeMonth": 1486,
     "timeYear": 1455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-20": 0
+    }
   },
   {
     "name": "Anoki prenotazioni-web [production]",
@@ -858,7 +860,7 @@
     "timeMonth": 697,
     "timeYear": 753,
     "dailyMinutesDown": {
-      "2025-02-20": 18,
+      "2025-02-20": 705,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
