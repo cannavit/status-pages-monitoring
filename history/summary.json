@@ -40,9 +40,9 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 308,
     "timeMonth": 363,
     "timeYear": 340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-09": 0
+    }
   },
   {
     "name": "Test Broken Site",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-09": 20,
+      "2025-05-09": 590,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -454,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-09": 20,
+      "2025-05-09": 590,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -827,18 +829,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/prenotazioni-api.cloud.anoki.it.ico",
     "slug": "anoki-prenotazioni-api-production",
     "status": "down",
-    "uptime": "93.17%",
+    "uptime": "93.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "78.76%",
+    "uptimeYear": "78.65%",
     "time": 1440,
     "timeDay": 1778,
     "timeWeek": 1571,
     "timeMonth": 1413,
     "timeYear": 1457,
     "dailyMinutesDown": {
-      "2025-05-09": 21,
+      "2025-05-09": 590,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -936,7 +938,7 @@
     "timeMonth": 806,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2025-05-09": 21,
+      "2025-05-09": 590,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
