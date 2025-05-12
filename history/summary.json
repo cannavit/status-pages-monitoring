@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 81,
-    "timeWeek": 130,
-    "timeMonth": 129,
+    "time": 109,
+    "timeDay": 210,
+    "timeWeek": 146,
+    "timeMonth": 132,
     "timeYear": 111,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 105,
-    "timeWeek": 203,
-    "timeMonth": 152,
+    "timeDay": 177,
+    "timeWeek": 127,
+    "timeMonth": 155,
     "timeYear": 230,
     "dailyMinutesDown": {}
   },
@@ -42,15 +42,15 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.20%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 329,
-    "timeDay": 387,
-    "timeWeek": 325,
-    "timeMonth": 377,
-    "timeYear": 342,
+    "timeDay": 296,
+    "timeWeek": 322,
+    "timeMonth": 348,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2025-05-11": 23,
       "2025-05-10": 3
@@ -73,7 +73,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-11": 23,
+      "2025-05-12": 22,
+      "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
@@ -436,8 +437,7 @@
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
-      "2024-05-13": 1440,
-      "2024-05-12": 1440
+      "2024-05-13": 1440
     }
   },
   {
@@ -457,7 +457,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-11": 23,
+      "2025-05-12": 22,
+      "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
@@ -820,8 +821,7 @@
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
-      "2024-05-13": 1440,
-      "2024-05-12": 1440
+      "2024-05-13": 1440
     }
   },
   {
@@ -830,18 +830,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/prenotazioni-api.cloud.anoki.it.ico",
     "slug": "anoki-prenotazioni-api-production",
     "status": "down",
-    "uptime": "93.01%",
+    "uptime": "92.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "78.21%",
-    "time": 1441,
-    "timeDay": 1484,
-    "timeWeek": 1709,
-    "timeMonth": 1426,
-    "timeYear": 1457,
+    "uptimeYear": "77.94%",
+    "time": 1442,
+    "timeDay": 1580,
+    "timeWeek": 1580,
+    "timeMonth": 1445,
+    "timeYear": 1459,
     "dailyMinutesDown": {
-      "2025-05-11": 23,
+      "2025-05-12": 22,
+      "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
@@ -935,13 +936,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 749,
-    "timeDay": 852,
-    "timeWeek": 1008,
-    "timeMonth": 821,
-    "timeYear": 750,
+    "time": 748,
+    "timeDay": 440,
+    "timeWeek": 879,
+    "timeMonth": 813,
+    "timeYear": 749,
     "dailyMinutesDown": {
-      "2025-05-11": 23,
+      "2025-05-12": 22,
+      "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
@@ -1304,8 +1306,7 @@
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
-      "2024-05-13": 1440,
-      "2024-05-12": 1440
+      "2024-05-13": 1440
     }
   }
 ]
